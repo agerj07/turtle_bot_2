@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-To launch this project roslaunch the file titled amr_sim.launch in the repository gui/launch. The project will take a couple seconds to create an initial path, and then will draw the look ahead points of where it's driving towards in the gui. The main issue this project has in the simulator is with obstacle avoidance. 
-=======
 # turtle_bot_2
 
 Guide TurtleBot2 to predefined waypoints navigating a partially known environment.
